@@ -1,0 +1,33 @@
+{
+  "files": {
+    "main.css": "/static/css/main.001954b8.chunk.css",
+    "main.js": "/static/js/main.ab332da1.chunk.js",
+    "main.js.map": "/static/js/main.ab332da1.chunk.js.map",
+    "runtime-main.js": "/static/js/runtime-main.03887cff.js",
+    "runtime-main.js.map": "/static/js/runtime-main.03887cff.js.map",
+    "static/js/2.95d833c6.chunk.js": "/static/js/2.95d833c6.chunk.js",
+    "static/js/2.95d833c6.chunk.js.map": "/static/js/2.95d833c6.chunk.js.map",
+    "index.html": "/index.html",
+    "static/css/main.001954b8.chunk.css.map": "/static/css/main.001954b8.chunk.css.map",
+    "static/js/2.95d833c6.chunk.js.LICENSE.txt": "/static/js/2.95d833c6.chunk.js.LICENSE.txt",
+    "static/media/7-Habit-bookstech.in_1800x1800.webp": "/static/media/7-Habit-bookstech.in_1800x1800.c66d5477.webp",
+    "static/media/Atomic-Habits-By-James-Clear_1800x1800.webp": "/static/media/Atomic-Habits-By-James-Clear_1800x1800.0d81487d.webp",
+    "static/media/Rich-dad-poor-dad-bookstech.in_1800x1800.webp": "/static/media/Rich-dad-poor-dad-bookstech.in_1800x1800.2d6abf6b.webp",
+    "static/media/annihilation-of-caste-bookstech.in_1800x1800.jpg": "/static/media/annihilation-of-caste-bookstech.in_1800x1800.040a9bc8.jpg",
+    "static/media/iwanttoeatyourpancreas_1800x1800.webp": "/static/media/iwanttoeatyourpancreas_1800x1800.17953d40.webp",
+    "static/media/life-amazing-secrets-bookstech.in_1800x1800.jpg": "/static/media/life-amazing-secrets-bookstech.in_1800x1800.21ddc87a.jpg",
+    "static/media/page1.981c5806.jpg": "/static/media/page1.981c5806.jpg",
+    "static/media/page2.bc8edc6a.jpg": "/static/media/page2.bc8edc6a.jpg",
+    "static/media/page3.a5b130f9.jpg": "/static/media/page3.a5b130f9.jpg",
+    "static/media/page4.55a2101c.jpg": "/static/media/page4.55a2101c.jpg",
+    "static/media/promised-land_1800x1800.jpg": "/static/media/promised-land_1800x1800.7e589599.jpg",
+    "static/media/think-and-trade_1800x1800.webp": "/static/media/think-and-trade_1800x1800.fb6ff1af.webp",
+    "static/media/think-like-a-monk-jay-shetty-bookstech.in_1800x1800.webp": "/static/media/think-like-a-monk-jay-shetty-bookstech.in_1800x1800.c48ee9d4.webp"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.03887cff.js",
+    "static/js/2.95d833c6.chunk.js",
+    "static/css/main.001954b8.chunk.css",
+    "static/js/main.ab332da1.chunk.js"
+  ]
+}
